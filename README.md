@@ -5,6 +5,6 @@ Hi! 👋 I'm Nicole, a coder passionate about machine learning as it relates to 
 - I'm constantly expanding my knowledge in health, wellness & longevity.
 - I am enrolled in the MS in Computer Science at University of Colorado Boulder.
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - LinkedIn: ![My LinkedIn Profile](https://www.linkedin.com/in/mcintyre-nicole/)
