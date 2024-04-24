@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @nmcintyre5
-- 👀 I’m interested in exercise, health, and wellness
-- 🌱 I’m currently learning about longevity and healthspan
-- ䷐ I'm following Peter Attia & Dr. Rhonda Patrick
-- 💞️ I’m looking to collaborate on health-related ML projects
-- ⚡ Fun fact: I'm a new grapefruit convert
+# About Me
 
-<!---
-nmcintyre5/nmcintyre5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! 👋 I'm Nicole, a coder passionate about machine learning as it relates to health & wellness. With a background in STEM education, I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact.
+
+## 🔭 What I'm Working On
+
+- Currently, I'm focusing on a variety of ML projects, where I'm analyzing the impact of certain factors on disease prediction.
+
+## 📚 What I'm Reading
+- Just finished (fiction): What Lies in the Woods by Kate Alice Marshall
+- Just finished (nonfiction): The Dhandho Investor by Monish Pabrai
+- Up next (fiction): A Court of Thorns & Roses by Sarah J. Maas
+- Up next (non fiction):  How Emotions are Made by Lisa Feldman Barrett
+
+## 🌱 What I'm Learning
+
+- I'm constantly expanding my knowledge in health, wellness & longevity.
+- I'm taking Introduction to Machine Learning: Supervised Learning by University of Colorado Boulder, which is helping me enhance my skills in Supervised ML.
+- I am enrolled in the MS in Computer Science at University of Colorado Boulder.
+ 
+## ⚡ Fun fact: 
+
+- I'm a new grapefruit convert
+
+## 📫 Get in Touch
+
+- LinkedIn: ![My LinkedIn Profile](https://www.linkedin.com/in/mcintyre-nicole/)
