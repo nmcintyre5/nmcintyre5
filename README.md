@@ -1,10 +1,7 @@
-# About Me
-
 Hi! 👋 I'm Nicole, a coder passionate about machine learning as it relates to health & wellness. With a background in STEM education, I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact.
 
 ## 🔭 What I'm Working On
-
-- Currently, I'm focusing on a variety of ML projects, where I'm analyzing the impact of certain factors on disease prediction.
+Currently, I'm focusing on a variety of ML projects, where I'm analyzing the impact of certain factors on disease prediction.
 
 ## 📚 What I'm Reading
 - Just finished (fiction): What Lies in the Woods by Kate Alice Marshall
@@ -15,12 +12,7 @@ Hi! 👋 I'm Nicole, a coder passionate about machine learning as it relates to 
 ## 🌱 What I'm Learning
 
 - I'm constantly expanding my knowledge in health, wellness & longevity.
-- I'm taking Introduction to Machine Learning: Supervised Learning by University of Colorado Boulder, which is helping me enhance my skills in Supervised ML.
 - I am enrolled in the MS in Computer Science at University of Colorado Boulder.
- 
-## ⚡ Fun fact: 
-
-- I'm a new grapefruit convert
 
 ## 📫 Get in Touch
 
