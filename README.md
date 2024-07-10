@@ -1,5 +1,5 @@
 ### 👋 About Me
-Hi!  I'm Nicole, a Python coder with a passion for machine learning, specifically as it relates to the medical and/or financial industries. With a background in STEM education, I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact. I'm seeking a new role as an entry-level ML engineer, where I can apply my technical skills and passion for innovation to drive impactful solutions.
+Hi!  I'm Nicole, a coder with a passion for machine learning, specifically as it relates to the medical and/or financial industries. With a background in STEM education, I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact. I'm seeking a new role as an entry-level ML engineer, where I can apply my technical skills and passion for innovation to drive impactful solutions.
 
 ##### What I'm Working On 🔭:
 - Currently, I'm focusing on a stock price prediction deep learning project, utilizing the Yahoo Finance API.
