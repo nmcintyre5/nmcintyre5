@@ -1,14 +1,14 @@
 ### 👋 About Me
-Hi!  I'm Nicole, a coder with a passion for machine learning, specifically as it relates to the medical and/or financial industries. With a background in STEM education, I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact. I'm seeking a new role as an entry-level ML engineer, where I can apply my technical skills and passion for innovation to drive impactful solutions.
+I’m a STEM educator and data enthusiast transitioning into data analytics, with experience building data-informed systems, dashboards, and reporting tools in education and operations. I leverage Python, Pandas, NumPy, and data visualization to analyze complex datasets, track outcomes, and inform decisions. I’m currently pursuing a Master of Science in Computer Science at the University of Colorado Boulder to deepen my data analytics and visualization skills.
 
 ##### What I'm Working On 🔭:
-- Currently, I'm focusing on a stock price prediction deep learning project, utilizing the Yahoo Finance API.
-- I'm constantly expanding my knowledge in health, wellness & longevity, exploring new research to inform my projects.
-- Alongside my professional work, I'm pursuing a Master of Science in Computer Science at the University of Colorado Boulder, where I'm engaged in advanced coursework in machine learning algorithms and data science.
+- Cleaning, analyzing, and visualizing financial and education datasets to uncover actionable insights
+- Building dashboards to monitor trends and outcomes in student performance and operations
+- Exploring new datasets in health and wellness to practice advanced analytics and visualization techniques
  
 ##### Technical Skills 💻:
-- Proficient in Python, with expertise in machine learning libraries such as TensorFlow, Keras, and scikit-learn.
-- Experienced in data manipulation and analysis using tools, such as NumPy & Pandas.
-- Familiar with version control systems, such as Git for collaborative development.
+- Programming & Data Analysis: Python, Pandas, NumPy
+- Visualization: Matplotlib, Seaborn, Plotly
+- Tools: Excel, SQL, Git, Jupyter Notebooks
   
 ##### LinkedIn 📥: ![My LinkedIn Profile](https://www.linkedin.com/in/mcintyre-nicole/)
